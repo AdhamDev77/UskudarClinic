@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/UskudarClinic/static/css/main.b4f5602a.css",
+    "main.js": "/UskudarClinic/static/js/main.0e0484d8.js",
+    "static/js/787.a24b1387.chunk.js": "/UskudarClinic/static/js/787.a24b1387.chunk.js",
+    "static/media/Homepage Image.jpg": "/UskudarClinic/static/media/Homepage Image.3a8b3d928ddb82bfe2ca.jpg",
+    "static/media/background-2.jpg": "/UskudarClinic/static/media/background-2.1b348415073a8e5b6fcb.jpg",
+    "static/media/logo2.png": "/UskudarClinic/static/media/logo2.d1d3f0d4333090f53008.png",
+    "static/media/supportImg.jpg": "/UskudarClinic/static/media/supportImg.c8a08124a1c71e9380a7.jpg",
+    "static/media/Doc.webp": "/UskudarClinic/static/media/Doc.0c8048d01810b2bd864e.webp",
+    "index.html": "/UskudarClinic/index.html",
+    "main.b4f5602a.css.map": "/UskudarClinic/static/css/main.b4f5602a.css.map",
+    "main.0e0484d8.js.map": "/UskudarClinic/static/js/main.0e0484d8.js.map",
+    "787.a24b1387.chunk.js.map": "/UskudarClinic/static/js/787.a24b1387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f5602a.css",
+    "static/js/main.0e0484d8.js"
+  ]
+}
