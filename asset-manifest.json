@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UskudarClinic/static/css/main.f04d5c38.css",
-    "main.js": "/UskudarClinic/static/js/main.3b5e2fc9.js",
+    "main.js": "/UskudarClinic/static/js/main.c2887b43.js",
     "static/js/787.a24b1387.chunk.js": "/UskudarClinic/static/js/787.a24b1387.chunk.js",
     "static/media/Homepage Image.jpg": "/UskudarClinic/static/media/Homepage Image.3a8b3d928ddb82bfe2ca.jpg",
     "static/media/background-2.jpg": "/UskudarClinic/static/media/background-2.1b348415073a8e5b6fcb.jpg",
@@ -12,11 +12,11 @@
     "static/media/Infectious Disease.jpg": "/UskudarClinic/static/media/Infectious Disease.7acb3fd4633b53ad4dda.jpg",
     "index.html": "/UskudarClinic/index.html",
     "main.f04d5c38.css.map": "/UskudarClinic/static/css/main.f04d5c38.css.map",
-    "main.3b5e2fc9.js.map": "/UskudarClinic/static/js/main.3b5e2fc9.js.map",
+    "main.c2887b43.js.map": "/UskudarClinic/static/js/main.c2887b43.js.map",
     "787.a24b1387.chunk.js.map": "/UskudarClinic/static/js/787.a24b1387.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f04d5c38.css",
-    "static/js/main.3b5e2fc9.js"
+    "static/js/main.c2887b43.js"
   ]
 }
