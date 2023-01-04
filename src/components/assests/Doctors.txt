@@ -1,0 +1,19 @@
+1- Neurologist: Prof.Dr.Matthias Endres
+
+2- Pediatrician : Dr. Henry S. Friedman
+
+3- Dermatologist: Dr. Mehmet Tayyar Canturk
+
+4- Gynecologist: Dr. Mehemet Aydin Science
+
+5- Surgeon : Dr.Lana Bijelic
+
+6- Physician executive: Prof. Dr. Halil Türkoglu
+
+7- Cardiologist: Prof. Dr. Halil Türkoglu
+
+8- Internist : Dr. Ahmed H. Abdel-Rahman
+
+9- Oncologist: Dr.Rachel Dultz
+
+10- Infectious Disease: Dr. Serge Lartchenko

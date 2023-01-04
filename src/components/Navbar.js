@@ -27,8 +27,15 @@ function Navbar() {
         })
         
       }
+    } 
+    const patient = (e) => {
+      let menu = document.querySelector(".dropdownMenu")
+      menu.classList.toggle('dropdownMenuVis')
+      }
+    const patientMenu = (e) => {
+      let menu = document.querySelector(".dropdownMenu")
+      menu.classList.toggle('dropdownMenuVis')
     }
-  
   return (
     
     <nav>
@@ -41,17 +48,13 @@ function Navbar() {
 
 
         <li>
-        <Dropdown>
-      <Dropdown.Toggle id="dropdown-button-dark-example1" variant="secondary">
-        Patient
-      </Dropdown.Toggle>
+      <button onClick={patient}>Patient</button>
 
-      <Dropdown.Menu id="dropdownMenu">
-        <Dropdown.Item id="dropdownItem" href="/reservation">Reserve now</Dropdown.Item>
-        <Dropdown.Item id="dropdownItem" href="/reservation-edit">Edit Reservation</Dropdown.Item>
-        <Dropdown.Item id="dropdownItem" href="/reservation-cancel">Cancel Reservation</Dropdown.Item>
-      </Dropdown.Menu>
-    </Dropdown>
+      <div onClick={patientMenu} className="dropdownMenu">
+        <Link id="dropdownItem" to="/reservation">Reserve now</Link>
+        <Link id="dropdownItem" to="/reservation-edit">Edit Reservation</Link>
+        <Link id="dropdownItem" to="/reservation-cancel">Cancel Reservation</Link>
+      </div>
     </li>
 
         <li><Link to="/support"> Support </Link></li>
@@ -81,5 +84,6 @@ function Navbar() {
     </nav>
   )
 }
+
 
 export default Navbar
